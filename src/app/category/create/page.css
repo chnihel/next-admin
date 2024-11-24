@@ -1,0 +1,11 @@
+.form-container {
+    background-color: white; /* Fond blanc */
+    max-width: 400px; /* Largeur maximale du formulaire */
+    width: 100%; /* Largeur adaptative */
+    border: 1px solid #ccc; /* Bordure gris clair */
+    border-radius: 8px; /* Coins arrondis */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Ombre douce */
+  }
+  .container-fluid {
+    padding: 110px; /* Espacement autour du formulaire */
+  }
